@@ -30,9 +30,9 @@ public class Doctor {
 	}
 	
 	public String getInfo(String ime) {
-		String promenliva;
+		String lokalnaPromenliva;
 		
-		promenliva = "tekst";
+		lokalnaPromenliva = "lokalnaPromenliva";
 		
 		return "Doctor name from attribute: " + this.name + " \n Doctor name: " +ime;
 		
