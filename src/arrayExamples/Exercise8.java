@@ -7,7 +7,7 @@ public class Exercise8 {
 	public static void main(String[] args) {
 		
 		Integer niza[] = {25, 14, 56, 15, 36, 56, 77, 18, 29, 49};
-		Integer copyNiza[] = new Integer[9];
+		Integer copyNiza[] = new Integer[10];
 		
 		System.out.println("Originalna niza : "+Arrays.toString(niza));
 		
