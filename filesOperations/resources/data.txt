@@ -1,0 +1,5 @@
+name=Dimitar
+surname=Josifov
+phone=123456
+email=jdimitar@gmail.com
+address=Skopje
