@@ -15,9 +15,11 @@ public class Exercise2 {
 		colors.add("White");
 		colors.add("Black");
 		
-		for (String color : colors) {
+		System.out.println("Niza: " + colors );
+		
+		for (String boja : colors) {
 			
-			System.out.println("Color: " +color);
+			System.out.println("Color: " +boja);
 			
 		}
 	}
